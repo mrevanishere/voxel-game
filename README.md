@@ -1,5 +1,6 @@
 # voxel-engine
-creating something like Minecraft to get used to C++/OpenGL
+Creating something like Minecraft to get used to C++/OpenGL.
+After completing this looking to move to learning CUDA and OpenCL.
 
 ## Purpose
 Objectives
